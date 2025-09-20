@@ -14,7 +14,7 @@ A minimal, lightweight customer support chatbot built with Flask backend and van
 
 ## 🚀 Demo
 
-![Chatbot Demo](demo.gif)
+![Chatbot Demo](demo.jpg)
 
 Try asking:
 - "What laptops do you have?"
